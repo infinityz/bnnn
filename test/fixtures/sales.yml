@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  total: 9.99
+  date: 2015-09-07 21:39:24
+  success: false
+
+two:
+  user_id: 
+  total: 9.99
+  date: 2015-09-07 21:39:24
+  success: false
